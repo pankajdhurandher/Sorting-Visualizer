@@ -5,7 +5,7 @@ This tool helps users understand sorting techniques by displaying real-time anim
 
 ---
 
-## 🚀 Features
+## Features
 
 - Interactive visualization of sorting algorithms
 - Real-time animation of comparisons and swaps
@@ -27,6 +27,14 @@ This tool helps users understand sorting techniques by displaying real-time anim
 
 ---
 
+## Tech Stack
+
+- React.js
+- JavaScript
+- CSS
+- Vite
+
+---
 
 ## Project Structure
 
