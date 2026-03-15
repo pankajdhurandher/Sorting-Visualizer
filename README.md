@@ -38,14 +38,16 @@ This tool helps users understand sorting techniques by displaying real-time anim
 
 ## Project Structure
 
+```
 sorting-visualizer
 │
 ├── public
 ├── src
-│ ├── components
-│ ├── algorithms
-│ ├── context
-│ └── App.jsx
+│   ├── components
+│   ├── algorithms
+│   ├── context
+│   └── App.jsx
 │
 ├── package.json
 └── README.md
+```
